@@ -7,12 +7,16 @@ void display(int a, int b){
 }
 
 void main(){
-    int a, b;
-    scanf("%d %d",&a,&b);
+    int a, b, check=0;
 
- 
+    while(check==0){
+
+    scanf("%d %d",&a,&b);
     display(a,b);
 
+    printf("input 0 to exit : ");
+    scanf("%d",&check);
+    }
 
 
 
