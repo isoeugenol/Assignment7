@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Assignment7.dir/main.c.o CMakeFiles/Assignment7.dir/cal.c.o  -o Assignment7 -rdynamic 

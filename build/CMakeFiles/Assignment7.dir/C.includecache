@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/song/kw/open/hw7/isoeugenol/cal.c
+cal.h
+/home/song/kw/open/hw7/isoeugenol/cal.h
+
+/home/song/kw/open/hw7/isoeugenol/cal.h
+
+/home/song/kw/open/hw7/isoeugenol/main.c
+stdio.h
+-
+cal.h
+/home/song/kw/open/hw7/isoeugenol/cal.h
+
